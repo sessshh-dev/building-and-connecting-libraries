@@ -1,0 +1,4 @@
+/Users/daragolikova/Desktop/Базовое программирование на с++/Сборка и подключение библиотек/project 3/build/CMakeFiles/leaver.dir
+/Users/daragolikova/Desktop/Базовое программирование на с++/Сборка и подключение библиотек/project 3/build/CMakeFiles/main.dir
+/Users/daragolikova/Desktop/Базовое программирование на с++/Сборка и подключение библиотек/project 3/build/CMakeFiles/edit_cache.dir
+/Users/daragolikova/Desktop/Базовое программирование на с++/Сборка и подключение библиотек/project 3/build/CMakeFiles/rebuild_cache.dir

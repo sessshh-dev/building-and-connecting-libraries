@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libleaver.dylib -install_name @rpath/libleaver.dylib CMakeFiles/leaver.dir/src/Leaver.cpp.o
